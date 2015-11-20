@@ -1,2 +1,2 @@
 # TA-proxmox
-Splunk TA for Proxmox
+Splunk Technology Add-in (TA) for Proxmox
